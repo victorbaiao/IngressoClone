@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ingressoMVC", "ingressoMVC\ingressoMVC.csproj", "{72DD0345-0AE0-48AA-A68F-6E3A03CEE43D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72DD0345-0AE0-48AA-A68F-6E3A03CEE43D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72DD0345-0AE0-48AA-A68F-6E3A03CEE43D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72DD0345-0AE0-48AA-A68F-6E3A03CEE43D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72DD0345-0AE0-48AA-A68F-6E3A03CEE43D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB32F720-DC45-40F4-AA32-F947E84D3526}
+	EndGlobalSection
+EndGlobal
