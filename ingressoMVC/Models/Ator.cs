@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ingressoMVC.Models
 {
-    public class Ator : IEntidade
+    public class Ator : Artista
     {
         public int Id { get; set; }
         public DateTime DataCadastro { get; set; }

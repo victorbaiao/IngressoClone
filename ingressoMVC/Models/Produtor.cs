@@ -5,7 +5,10 @@ using System.Threading.Tasks;
 
 namespace ingressoMVC.Models
 {
-    public class Produtor
+    public class Produtor : Artista
     {
+        public List<Filme> Filmes { get; set; }
     }
+
+
 }
